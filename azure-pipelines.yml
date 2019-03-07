@@ -17,7 +17,7 @@ variables:
   Azure.ResourceGroupName: 'gosampleapp'
 
   # Update Azure.ServiceConnectionId value with AzureRm service endpoint.
-  Azure.ServiceConnectionId: 'f4606b88-499a-4a71-a859-24c510e5183b'
+  Azure.ServiceConnectionId: 'f4606b88-499a-4a71-a859-24c510e5183'
 
   # Update Azure.Location value with Azure Location.
   Azure.Location: 'eastus'
